@@ -1,0 +1,1 @@
+SELECT id AS `primary key` FROM products;
